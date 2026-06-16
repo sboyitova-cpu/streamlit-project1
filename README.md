@@ -1,3 +1,3 @@
 # Streamlit Project
 
-My first Streamlit web application 🚀
+My second Streamlit project 🚀
