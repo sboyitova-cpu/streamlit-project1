@@ -2,10 +2,10 @@ import streamlit as st
 
 fiyat=int(st.text_input("Lütfen gelirinizi giriniz:"))
 vergi=fiyat*0.15
-vergi1=fiyat*0.20
-vergi2=fiyat*0.27
-vergi3=fiyat*0.35
-vergi4=fiyat*0.40
+vergi1=fiyat*0.1525
+vergi2=fiyat*0.195
+vergi3=fiyat*0.27125
+vergi4=fiyat*0.3217592593
 if fiyat in range(0,190000):
   st.write(vergi)
 elif fiyat in range(190001,400000):
