@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("Dilnoza App 🚀")
+st.title("Shahnoza App 🚀")
 
 st.write("My first Streamlit project")
