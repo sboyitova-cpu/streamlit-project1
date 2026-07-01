@@ -1,3 +1,3 @@
 # Streamlit Project
 
-My second Streamlit project 🚀
+My Streamlit projects 🚀
